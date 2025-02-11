@@ -1,0 +1,10 @@
+name: SinglePlayerSleep
+version: 1.0
+main: br.com.singleplayersleep.SinglePlayerSleep
+api-version: '1.21'
+description: Permite que jogadores durmam independentemente dos outros
+commands:
+  spsreload:
+    description: Recarrega a configuração do plugin
+    usage: /<command>
+    permission: singleplayersleep.reload
